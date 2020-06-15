@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/medsite/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="564">
-              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+              <caret line="138" selection-start-line="138" selection-end-line="138" />
             </state>
           </provider>
         </entry>
@@ -93,6 +93,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -110,6 +113,7 @@
     <option name="width" value="1440" />
     <option name="height" value="814" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -264,7 +268,7 @@
     <entry file="file://$PROJECT_DIR$/medsite/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
-          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
         </state>
       </provider>
     </entry>
